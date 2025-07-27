@@ -107,7 +107,7 @@ volumeSlider.value = 0.2;
   entryScreen.addEventListener('click', clickHandler);
 
   // --- Discord & Spotify Presence (Lanyard WebSocket API) ---
-  const userId = "565936272741498883";
+  const userId = "697558961754210354";
 
   const socket = new WebSocket("wss://api.lanyard.rest/socket");
 
